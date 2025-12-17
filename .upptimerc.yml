@@ -1,6 +1,10 @@
 owner: creme332 # Your GitHub organization or username, where this repository lives
 repo: uptime-monitor # The name of this repository
 
+# Run uptime schedule every 1 hr instead of default 5 minutes
+workflowSchedule:
+  uptime: "0 * * * *"
+  
 sites:
   - name: Blog
     url: https://creme332.github.io/
