@@ -10,8 +10,8 @@ sites:
     url: https://myjobviz.web.app/
   - name: Resume
     url: https://kelv1n.web.app/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: myjobmu
+    url: https://www.myjob.mu/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
