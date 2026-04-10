@@ -80,17 +80,19 @@
     "url": "https://www.myjob.mu/",
     "icon": "https://icons.duckduckgo.com/ip3/www.myjob.mu.ico",
     "slug": "myjobmu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 263,
-    "timeWeek": 490,
-    "timeMonth": 577,
-    "timeYear": 578,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.96%",
+    "time": 577,
+    "timeDay": 354,
+    "timeWeek": 484,
+    "timeMonth": 573,
+    "timeYear": 577,
+    "dailyMinutesDown": {
+      "2026-04-10": 60
+    }
   }
 ]
